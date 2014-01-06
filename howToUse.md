@@ -3,7 +3,7 @@
 ##command list
 ```	$git status```
 
-```	$git add "ファイル名"```
+```	$git add [file]```
 
 ```	$git commit -m "コメント"```
 
