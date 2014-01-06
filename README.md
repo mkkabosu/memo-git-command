@@ -1,2 +1,2 @@
-git-command
+memo-git-command
 ===========
